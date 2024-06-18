@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0; 
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+#clear-div {
+    padding: 30px;
+}
+
+#main {
+    display: flex;
+    padding: 4px;
+
+}
+
+.gmeil-text {
+    width: 45px;
+    height: 24px;
+    margin: 8px;
+    margin-top: 14px;
+}
+
+.image-text {
+    width: 45px;
+    height: 24px;
+    margin: 8px;
+    margin-top: 14px;
+}
+
+.dot-icon {
+    height: 45px;
+    width: 44px;
+    margin: 8px;
+    text-align: center;
+}
+
+.M_icon {
+    border-radius: 50%;
+}
+
+/*--------------- second section GOOGLE TEXT ----------------  */
+
+#main-section1{
+    margin-top: 60px;
+}
+
+.main_sec-child1 {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+   
+    
+}
+.main_sec-child2{
+       box-shadow: 0px 0px 10px 8px #ece6e6;
+       display: flex;
+       justify-content: center;
+       text-align: center;
+       border-radius: 40px;
+       height: 44px;
+       
+}
+#input_search{
+     margin-top:2px;
+     height: 39px;
+     width: 300px;
+     border: 1px solid white;
+
+}
+.icons{
+    height: 20px;
+    margin: 10px;
+
+}
+
